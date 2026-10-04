@@ -1,0 +1,26 @@
+manufacturer,alerts,ivd_pct,removal_pct,high_harm_pct,fsn_only_pct,median_units,top_cause,last_alert,alerts_per_year,flags,n_flags,review_level
+Abbott,56,41,2,4,52,20.0,Electrical / power / battery,2025-11-25,20.5,"Communication gap, High workload",2,Priority review
+Beckman Coulter,54,100,31,0,0,20.0,Incorrect test result (IVD),2025-11-23,24.0,"Frequent removals, High workload",2,Priority review
+Medtronic,52,0,33,19,0,305.0,Electrical / power / battery,2025-12-15,21.0,"Frequent removals, High workload",2,Priority review
+Boston Scientific,18,0,50,22,0,336.0,Labelling / IFU,2025-12-23,7.0,"Frequent removals, Serious harm stated",2,Priority review
+Saudi Mais For Medical Products,10,0,60,0,0,50587.0,Mechanical / material failure,2025-11-24,4.0,"Frequent removals, Large alerts",2,Priority review
+Welch Allyn,10,0,40,0,0,1772.0,Electrical / power / battery,2025-04-21,4.5,"Frequent removals, Large alerts",2,Priority review
+Philips,270,0,1,9,0,35.0,Mechanical / material failure,2025-12-22,114.0,High workload,1,Watch
+Siemens Healthineers,95,39,18,0,1,33.0,Incorrect test result (IVD),2025-12-10,30.5,High workload,1,Watch
+Randox,74,100,9,0,0,103.0,Incorrect test result (IVD),2025-12-09,30.0,High workload,1,Watch
+GE HealthCare,69,3,6,19,0,42.0,Electrical / power / battery,2025-12-24,31.5,High workload,1,Watch
+Ortho Clinical Diagnostics,53,100,38,0,0,34.0,Incorrect test result (IVD),2025-11-12,19.0,Frequent removals,1,Watch
+BD,22,45,55,0,0,82.0,Labelling / IFU,2025-11-04,8.0,Frequent removals,1,Watch
+B. Braun,18,0,22,0,22,129.0,Labelling / IFU,2025-07-24,3.5,Communication gap,1,Watch
+Smith Medical,16,0,38,6,6,128.0,Mechanical / material failure,2025-04-23,8.0,Frequent removals,1,Watch
+Covidien (Medtronic),16,0,50,19,0,309.5,Electrical / power / battery,2025-10-20,7.0,Frequent removals,1,Watch
+Baxter,15,0,7,40,0,137.0,Labelling / IFU,2025-09-10,7.5,Serious harm stated,1,Watch
+Werfen,15,100,0,20,0,42.0,Incorrect test result (IVD),2025-10-28,5.0,Serious harm stated,1,Watch
+Stryker,11,0,64,9,0,60.0,Mechanical / material failure,2025-07-01,5.5,Frequent removals,1,Watch
+Alcon Laboratories,10,0,10,0,0,1800.0,Mechanical / material failure,2025-09-21,4.5,Large alerts,1,Watch
+Olympus,34,3,21,18,0,16.0,Labelling / IFU,2025-11-12,11.5,,0,Routine
+Maquet (Getinge),28,7,21,0,0,15.0,Mechanical / material failure,2025-12-30,10.5,,0,Routine
+Datex-Ohmeda (GE),16,0,0,19,0,65.0,Manufacturing / out of spec,2025-11-17,7.5,,0,Routine
+Draeger,15,0,0,13,7,303.5,Mechanical / material failure,2025-11-09,6.0,,0,Routine
+Getinge,15,0,20,0,0,35.0,Alarm / monitoring,2025-11-27,5.5,,0,Routine
+bioMerieux,14,100,21,0,0,17.0,Incorrect test result (IVD),2025-09-16,6.0,,0,Routine
